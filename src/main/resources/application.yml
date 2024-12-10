@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: homepage
+  jpa:
+    show-sql: true
+    database: postgresql
+    hibernate:
+      ddl-auto: update
